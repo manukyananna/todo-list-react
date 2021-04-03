@@ -1,0 +1,4 @@
+@import './Css/main.css';
+@import "react-notifications/lib/notifications.css";
+@import "react-loader-spinner/dist/loader/css/react-spinner-loader.css";
+@import "react-confirm-alert/src/react-confirm-alert.css";
